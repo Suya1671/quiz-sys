@@ -1,0 +1,31 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C3,4u7,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,206.0,-118.25,90.0,top
+C4,4u7,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,202.0,-114.5,-90.0,top
+C5,1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,247.75,-113.4325,90.0,top
+C6,1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,209.25,-110.75,180.0,top
+C7,1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,252.05,-107.0,180.0,top
+C8,1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,253.25,-113.25,-90.0,top
+C9,100n,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,251.75,-113.25,-90.0,top
+F1,750 mA,Fuse_0603_1608Metric,195.0375,-114.0,0.0,top
+J1,TYPE-C-31-M-17,USB_C_Receptacle_HRO_TYPE-C-31-M-17,186.165,-117.7,-90.0,top
+J2,JTAG,PinHeader_1x04_P2.54mm_Horizontal,208.44,-125.0,-90.0,top
+J3,UART,PinHeader_1x04_P2.54mm_Horizontal,221.69,-125.0,-90.0,top
+L1,BLM15PX121SN1D,L_0402_1005Metric,191.7875,-114.0,0.0,top
+LED1,green,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,199.098218,-124.602664,180.0,top
+Q1,2N7002,SOT-23,190.0,-134.25,-90.0,top
+R1,5k1,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,192.3475,-116.76,0.0,top
+R10,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,194.5,-133.25,0.0,top
+R11,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,199.1,-107.95,90.0,top
+R2,5k1,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,192.3475,-118.75,180.0,top
+R3,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,250.12,-113.4325,-90.0,top
+R4,1k5,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,210.5,-115.25,180.0,top
+R5,47k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,207.5,-108.0,90.0,top
+R6,1k5,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,210.5,-112.5,0.0,top
+R7,3k9,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,205.0,-108.093459,90.0,top
+R8,100k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,190.25,-127.25,0.0,top
+R9,100R,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,194.5,-131.25,180.0,top
+SW1,SW_BOOT,TS-1088-AR02016,199.120718,-129.102664,-90.0,top
+SW2,PWR,SW_MSK12C02-HB,185.3125,-129.5,90.0,top
+SW3,SW_ANSWER,WAGO 2060-452998-404,222.2,-96.0,90.0,top
+U1,BQ24075RGT,VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm,206.0,-114.0,0.0,top
+U3,XC6206P332MR-G,SOT-23-3,252.55,-109.75,90.0,top
